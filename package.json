@@ -1,6 +1,6 @@
 {
   "name": "picasso-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
   },
   "author": "picasso",
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "wy_jscolor": "^1.0.1"
+  }
 }
